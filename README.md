@@ -26,9 +26,9 @@ Usage
 
 ## The LLM Cheatsheet can be used in a variety of ways, including:
 
-    Quick reference guide: Use it as a quick reference when working on NLP projects or researching language modeling techniques.
-    Study aid: Use it as a study aid to help you learn and remember key concepts and techniques in NLP and language modeling.
-    Teaching tool: Use it as a teaching tool to introduce students to the basics of language modeling and NLP.
+Quick reference guide: Use it as a quick reference when working on NLP projects or researching language modeling techniques.
+Study aid: Use it as a study aid to help you learn and remember key concepts and techniques in NLP and language modeling.
+Teaching tool: Use it as a teaching tool to introduce students to the basics of language modeling and NLP.
 
 ## Conclusion
 
