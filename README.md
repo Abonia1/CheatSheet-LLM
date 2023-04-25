@@ -78,6 +78,23 @@ Quick reference guide: Use it as a quick reference when working on NLP projects 
 #### **If you like this do star to this repo ⭐ and contributes...💁💁💁**
 
 ---
+Citation: If you found this useful for your academic work, please consider citing our work, in text:
+
+```Abonia S.,  Ashish P., "Large Languge model(LLM) CheatSheet", Medium-Github, 2023.```
+
+BibTeX citation:
+
+```
+  @article{2023illustrating,
+  author = {Abonia,  Ashish},
+  title = {Large Languge model(LLM) CheatSheet},
+  journal = {Medium-Github},
+  year = {2023},
+  note = {https://www.linkedin.com/in/aboniasojasingarayar/, https://www.linkedin.com/in/ashishpatel2604/},
+}
+```
+
+---
 
 ***Thanks for reading...🙏🙏🙏***
 
